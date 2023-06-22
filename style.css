@@ -617,11 +617,11 @@ width: 55%;
     }
     .navbar .menu{
         position: fixed;
-        height: 60vh;
+        height: 75vh;
         width: 80%;
         left: -100%;
         top: 0;
-        background:black;
+        background:rgb(14, 11, 11);
         text-align: center;
         padding-top: 80px;
         transition: all 0.3s ease;
